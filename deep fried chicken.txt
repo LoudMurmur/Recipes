@@ -1,15 +1,19 @@
-Faire deux bol, un bol 'sec' et un bol 'mouillé'
+Faire deux bol, un bol 'sec' et un bol 'mouillÃ©'
 
 bol sec :
 420g de farine
-15ml + 7.5ml de sel a l'ail
+//15ml + 7.5ml de sel a l'ail
+15ml de sel
+7.5ml d'ail en poudre
 15ml de poivre noir
 15ml paprika doux
-7.5ml de thym
+//7.5ml de thym
+10ml thym
 5ml d'origan
-5ml de romarin
+//5ml de romarin
+10ml romarin
 
-Bol mouillé
+Bol mouillÃ©
 160g farine
 15ml de sel
 deux jaune d'oeuf battu
@@ -17,14 +21,14 @@ deux jaune d'oeuf battu
 
 mouiller les morceau de poulet
 tremper dans le bol sec
-tremper dans le bol mouillé
+tremper dans le bol mouillÃ©
 tremper dans le bol sec
 
 pret a frire,
 
-frire 10-15 minutes.
+frire 10-15 minutes, huile a 180Â°C.
 L'huile est prete quand des bulles apparaissent autour
-d'une cuillere en bois plongé dedans.
+d'une cuillere en bois plongÃ© dedans.
 
 #Prochaine iteration :
 Rajouter
