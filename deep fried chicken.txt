@@ -1,48 +1,86 @@
-Faire deux bol, un bol 'sec' et un bol 'mouillé'
+#English and French recipe below
+#Français et anglais dans le fichier
 
-bol sec :
-420g de farine
-15ml de sel
-7.5ml d'ail en poudre
-15ml de poivre noir
-15ml paprika doux
-15ml thym
-10ml d'origan
-15ml romarin
+Faire deux bol, un bol 'sec' et un bol 'mouillé' // make 2 bowls, 1 dry mix and 1 wet mix
 
-Bol mouillé
-160g farine
-15ml de sel
-deux jaune d'oeuf battu
-250ml de grimbergen blonde
+Bol sec :                               // Dry mix :
+420g de farine                          // flour
+15ml MSG                                // MSG (Monosodium glutamate - aji-no-moto)
+15ml de sel                             // fine salt
+10ml d'ail en poudre                    // powdered garlic
+15ml de poivre noir en poudre           // powdered black pepper
+15ml paprika doux                       // powdered sweet paprika
+10ml thym                               // fine thyme
+10ml d'origan                           // fine oregano
+10ml romarin                            // fine rosemary
+3 quart d'un paquet de levure chimique  // 3 quart of a baking powder sachet
 
-mouiller les morceau de poulet
-tremper dans le bol sec
-tremper dans le bol mouillé
-tremper dans le bol sec
+Bol mouillé :                        // Wet mix :
+160g farine                          // flour
+15ml de sel                          // fine salt
+15ml MSG                             // MSG (Monosodium glutamate - aji-no-moto)
+2 jaune d'oeuf battu                 // egg tolks
+250ml de grimbergen blonde           // beer
+1 quart de paquet de levure chimique // remaining quart of the baking powder sachet
 
-pret a frire,
+#Français (english instructions below)
 
-frire 10-15 minutes, huile a 180°C.
+Prechauffer l'huile a 180°C, maintenir la temperature a 170°C-180°C pendant la cuisson.
+Oui il va falloir acheter un thermometre, si on depasse 180°C la panure (le truc autour du poulet)
+va trop cuire et aura un gout amert.
+En dessous le poulet ne cuit pas asser vite par rapport a la panure et donc la recette echoue.
 
-you'll want to preheat your oil to somewhere between 325 and 375 degrees. During cooking, you should aim to keep it between 250 and 325 degrees
+mon thermometre : http://www.ebay.com/itm/Stainless-Steel-Oven-Cooking-BBQ-Probe-Thermometer-Food-Meat-Gauge-200-C-/381062022545?hash=item58b9110591:g:hy8AAOSw7ThUcFJW
 
-chicken should be at room temperature, do not use it if it just came out of the fridge
+Amener les morceaux a temperature ambiante, moi je met mes morceau dans un bol et je leur fait couler
+de l'eau chaude dessus jusqu'a ce qu'il ne soit plus froid.
+Ceci evite que la temperature de l'huile baisse trop lorsque l'on y plonge le poulet.
 
-Frying in large batches will cause the temperature of your oil to drop too low, resulting in a less crispy (and, therefore, less delicious) finished product. Fry in small batches, and be sure to stir while cooking—this will fry your food more evenly
+Ne pas cuire de gros "paquet", cuire par petit paquet de poulet (depend de la taille), pareil sinon
+la temperature de l'huile descend trop lorsqu'on les plongent.
 
-L'huile est prete quand des bulles apparaissent autour
-d'une cuillere en bois plongé dedans.
+1/ mouiller les morceau de poulet (pour que la farine accroche)
+2/ tremper dans le bol sec
+3/ tremper dans le bol mouillé
+4/ tremper dans le bol sec
+5/ pret a frire
 
-#Prochaine iteration :
-Rajouter
-10ml de sauge dans le bol sec
-remplacer les 5ml d'origan par 5ml de marjoraine
-ajouter 2.5ml de noix de muscade au bol sec
+frire 5-15 minutes (depend de la taille des morceaux), j'utilise un blanch coupé en 6-8 morceaux,
+ceux la cuise en 6 minutes.
+
+Secher sur une grille pas du sopalin sinon le poulet deviendra mou en dessous.
 
 Avis : 
 - tartare - boussille le gout
 - bearnaise - boussille le gout
-- barbecue - n'attenue pas trop le 
-                       gout mais 'est mieux sans
+- barbecue - Masque trop le gout des epices
 - aigre douce : pas mal
+
+#English
+
+you'll want to preheat your oil to 180°C, keep it betwen 170-180°C during cooking.
+You chicken needs to be at room temperature otherwhise it will make the temperature of
+the oil to drop too low when you put it inside.
+(I just run hot water on my chicken until it isn't cold anymore).
+
+It's really important : too hot and the cryspy thing around the chicken will overcook and taste bitter,
+too cold and the chicken will cook at a different speed that what is around it and the recipe will fail.
+
+A thermometer is mandatory, I use this one :  http://www.ebay.com/itm/Stainless-Steel-Oven-Cooking-BBQ-Probe-Thermometer-Food-Meat-Gauge-200-C-/381062022545?hash=item58b9110591:g:hy8AAOSw7ThUcFJW
+
+Make small batches do not cook 2Kg at a time, same reason, to not allow the temperature of
+the oil to drop too low.
+
+1/ ensure that you chicken is wet (for the flour to stick)
+2/ put it in the dry mix
+3/ put it in the wet mix
+4/ put it in the dry mix
+5/ put it in a plate, it's ready to be fried.
+
+dry on a grid not on tissue otherwhise your fried chicken will become soggy.
+
+goes well with sweet-sour asian sauce, BBQ sauce mask all the flavor (that or my BBQ sauce sucks)
+
+
+
+
