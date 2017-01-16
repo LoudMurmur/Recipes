@@ -1,32 +1,36 @@
-#English and French recipe below
-#Français et anglais dans le fichier
+#English recipe below
+
+####################
+##### Français #####
+####################
 
 Faire deux bol, un bol 'sec' et un bol 'mouillé' // make 2 bowls, 1 dry mix and 1 wet mix
 
-Bol sec :                               // Dry mix :
-420g de farine                          // flour
-15ml MSG                                // MSG (Monosodium glutamate - aji-no-moto)
-15ml de sel                             // fine salt
-10ml d'ail en poudre                    // powdered garlic
-15ml de poivre noir en poudre           // powdered black pepper
-15ml paprika doux                       // powdered sweet paprika
-10ml thym                               // fine thyme
-10ml d'origan                           // fine oregano
-10ml romarin                            // fine rosemary
-3 quart d'un paquet de levure chimique  // 3 quart of a baking powder sachet
+Bol sec :
+420g de farine
+15ml MSG (glutamate monosodique / aji-no-moto / epicerie asiatique)
+15ml de sel fin
+10ml d'ail en poudre
+15ml de poivre noir en poudre
+15ml paprika doux en poudre
+10ml thym sec finement haché
+10ml d'origan sec finement haché
+10ml romarin sec finement haché
+9g de levure chimique
 
-Bol mouillé :                        // Wet mix :
-160g farine                          // flour
-15ml de sel                          // fine salt
-15ml MSG                             // MSG (Monosodium glutamate - aji-no-moto)
-2 jaune d'oeuf battu                 // egg tolks
-250ml de grimbergen blonde           // beer
-1 quart de paquet de levure chimique // remaining quart of the baking powder sachet
+Bol mouillé :
+160g farine
+15ml de sel fin
+15ml MSG (glutamate monosodique / aji-no-moto / epicerie asiatique)
+2 jaune d'oeuf battu
+250ml de grimbergen blonde
+2g de levure chimique
 
-#Français (english instructions below)
+Utiliser de l'huile de colza, l'huile d'olive a un "smoke point" trop bas et donnera un gout amert au poulet.
 
-Prechauffer l'huile a 180°C, maintenir la temperature a 170°C-180°C pendant la cuisson.
-Oui il va falloir acheter un thermometre, si on depasse 180°C la panure (le truc autour du poulet)
+Prechauffer l'huile a 170°C, maintenir la temperature a 130°C-160°C pendant la cuisson (des qu'on plonge
+le poulet la temperature chute, c'est pour ça qu'on la prechauffe a 170°C avant).
+Oui il va falloir acheter un thermometre, si on depasse 170°C la panure (le truc autour du poulet)
 va trop cuire et aura un gout amert.
 En dessous le poulet ne cuit pas asser vite par rapport a la panure et donc la recette echoue.
 
@@ -43,7 +47,9 @@ la temperature de l'huile descend trop lorsqu'on les plongent.
 2/ tremper dans le bol sec
 3/ tremper dans le bol mouillé
 4/ tremper dans le bol sec
-5/ pret a frire
+5/ mettre dans une assiete, attendre dix minutes que la panure accroche
+
+on peut frire.
 
 frire 5-15 minutes (depend de la taille des morceaux), j'utilise un blanch coupé en 6-8 morceaux,
 ceux la cuise en 6 minutes.
@@ -56,9 +62,35 @@ Avis :
 - barbecue - Masque trop le gout des epices
 - aigre douce : pas mal
 
-#English
+###################
+##### English #####
+###################
 
-you'll want to preheat your oil to 180°C, keep it betwen 170-180°C during cooking.
+make 2 bowls, a dry mix and a wet mix :
+
+Dry mix :
+420g of all purpose flour
+15ml of MSG (Monosodium glutamate - aji-no-moto)
+15ml of fine salt
+10ml of powdered garlic
+15ml of powdered black pepper
+15ml of powdered sweet paprika
+10ml of fine thyme
+10ml of fine oregano
+10ml of fine rosemary
+9g of baking powder
+
+Wet mix :
+160g of all purpose flour
+15ml of fine salt
+15ml of MSG (Monosodium glutamate - aji-no-moto)
+2 egg yolks
+250ml of grimbergen blonde // beer
+2g of baking powder
+
+
+you'll want to preheat your oil to 170°C, keep it betwen 130-160°C during cooking (as soon as you add
+the chicken the temperature will drop, that's why you pr-heat it to 170°C before).
 You chicken needs to be at room temperature otherwhise it will make the temperature of
 the oil to drop too low when you put it inside.
 (I just run hot water on my chicken until it isn't cold anymore).
@@ -75,10 +107,10 @@ the oil to drop too low.
 2/ put it in the dry mix
 3/ put it in the wet mix
 4/ put it in the dry mix
-5/ put it in a plate, it's ready to be fried.
+5/ put it in a plate, wait 10 minutes for it to stick
 
-dry on a grid not on tissue otherwhise your fried chicken will become soggy.
-
+it's ready to be fried.
+dry on a grid not on paper tissue otherwhise your fried chicken will become soggy.
 goes well with sweet-sour asian sauce, BBQ sauce mask all the flavor (that or my BBQ sauce sucks)
 
 
