@@ -26,7 +26,7 @@ Bol mouillé :
 250ml de grimbergen blonde
 2g de levure chimique
 
-Utiliser de l'huile de colza, l'huile d'olive a un "smoke point" trop bas et donnera un gout amert au poulet.
+Utiliser de l'huile de tournesol, l'huile d'olive a un "smoke point" trop bas et donnera un gout amert au poulet.
 
 Prechauffer l'huile a 170°C, maintenir la temperature a 130°C-160°C pendant la cuisson (des qu'on plonge
 le poulet la temperature chute, c'est pour ça qu'on la prechauffe a 170°C avant).
@@ -61,6 +61,13 @@ Avis :
 - bearnaise - boussille le gout
 - barbecue - Masque trop le gout des epices
 - aigre douce : pas mal
+
+Erreur frequente :
+ - utiliser une huile qui a un smoke point trop bas : huile d'olive par exemple
+ - frire en gros paquet : la temperature de l'huile chute trop
+ - ne pas avoir de termometre : impossible de savoir si l'huile est trop chaude ou pas asser
+ - faire secher sur du sopalin : rend humide et perd son coté croustillant.
+ - ne pas laisser le poulet atteindre la temperature ambiante avant de frire : la temperature de l'huile chute trop et le poulet cuit moins vite (alors que la panure non)
 
 ###################
 ##### English #####
