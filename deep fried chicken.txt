@@ -1,12 +1,14 @@
-#English recipe below
+﻿#English recipe below
 
 ####################
 ##### Français #####
 ####################
 
+Mix poivre : (25% poivre noir intense ducros, 25% poivre gris classique ducros, 50% poivre saveur ducros)
+
 Marinade :
 
-Dans 1L de lait ribot mettre : 15ml de sel fin, 15ml d'ail en poudre, 15ml de paprika, 12.5ml de thym, 15ml de poivre noir
+Dans 1L de lait ribot mettre : 15ml de sel fin, 15ml d'ail en poudre, 15ml de paprika, 12.5ml de thym, 15ml de mix poivre
 10ml d'origan, 12.5ml de romarin.
 Laisser reposer 12h au frigo.
 
@@ -19,7 +21,7 @@ Bol sec :
 15ml MSG (glutamate monosodique / aji-no-moto / epicerie asiatique)
 15ml de sel fin
 15ml d'ail en poudre
-15ml de poivre noir en poudre
+15ml de mix poivre
 15ml paprika doux en poudre
 12.5ml thym sec finement haché
 10ml d'origan sec finement haché
